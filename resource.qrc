@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Enlarge.png</file>
+        <file>Normal.png</file>
+        <file>Small.png</file>
+        <file>Bold.png</file>
+    </qresource>
+</RCC>
